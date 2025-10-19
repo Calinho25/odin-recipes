@@ -1,1 +1,2 @@
 # odin-recipes
+A simple recipe website. I created the first recipe from scratch, then duplicated it to use as a templaate for the other ones. Decided to use dowwnloaded images to simplify my code and just keep everything local.

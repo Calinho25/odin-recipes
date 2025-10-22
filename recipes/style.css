@@ -1,20 +1,33 @@
 html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0px 250px;
+    background-color: #FAF7F0;
 }
 h1 {
     text-align: center;
-    color: #0072CE;
+    color: #333333;
+    font-size: 35px;
 }
 h2, h3 {
-    color: #0072CE;
+    color: #333333;
 }
 img {
     display: block;
     margin: auto;
 }
 p, ul, ol{
-    background-color: #38732b;
     padding: 10px;
     list-style: decimal inside none;
-color: white;
+color: #333333;
 }
+button {
+    color: #FAF7F0;
+    background-color: #333333;
+border: 0px;
+}
+/* this targets the buttons wrapped in paragraphs*/
+/* this targets the buttons in my index */
+p button {
+    text-align: center;
+    height: 50px;
+} 

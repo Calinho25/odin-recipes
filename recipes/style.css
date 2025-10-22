@@ -1,0 +1,20 @@
+html {
+    margin: 0px 250px;
+}
+h1 {
+    text-align: center;
+    color: #0072CE;
+}
+h2, h3 {
+    color: #0072CE;
+}
+img {
+    display: block;
+    margin: auto;
+}
+p, ul, ol{
+    background-color: #38732b;
+    padding: 10px;
+    list-style: decimal inside none;
+color: white;
+}
